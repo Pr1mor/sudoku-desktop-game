@@ -7,8 +7,8 @@ public class PolishAuthorsResourceBundle extends ListResourceBundle {
     @Override
     protected Object[][] getContents() {
         return new Object[][] {
-                { "university", "Politechnika Łódzka" },
-                { "247026", "Oskar Kacprzak" },
+                { "university", "Uniwersytet Manitoby" },
+                { "247026", "Pratham Patel" },
                 { "247027", "Wojciech Kapica" },
         };
 
